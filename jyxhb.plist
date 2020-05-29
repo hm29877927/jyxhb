@@ -1,0 +1,39 @@
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://120.26.63.227:576/upgrade/jyxhb.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://120.26.63.227:576/upgrade/icon.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>forceUpdate</key>
+                <false/>
+                <key>bundle-identifier</key>
+                <string>com.yonyou.jyxhb</string>
+                <key>bundle-version</key>
+                <string>1.3.6</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>江盐小伙伴</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
